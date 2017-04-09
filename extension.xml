@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" logo="icon.png">
+	<properties>
+		<name>Turkish Font</name>
+		<version>1.0</version>
+		<author>Alper Ozisik</author>
+		<description>Support for Turkish language.</description>
+	</properties>
+
+	<announcement text="Support for Turkish language." font="emotefont" icon="icon"/> 
+
+	<base>
+		<includefile source="graphics_fonts.xml"/>
+
+	</base>
+</root>

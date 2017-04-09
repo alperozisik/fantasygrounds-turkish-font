@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root>
+	<!-- Formatted text fields -->
+	<font name="reference-title">
+		<fgffile name="graphics/fonts/bold-14.fgf" />
+		<color value="000000" />
+	</font>
+	<font name="reference-h">
+		<fgffile name="graphics/fonts/bold-13.fgf" />
+		<color value="660000" />
+	</font>
+	<font name="reference-r">
+		<fgffile name="graphics/fonts/regular-11.fgf" />
+		<color value="#000000" />
+	</font>
+	<font name="reference-i">
+		<fgffile name="graphics/fonts/italic-11.fgf" />
+		<color value="#000000" />
+	</font>
+	<font name="reference-b">
+		<fgffile name="graphics/fonts/bold-11.fgf" />
+		<color value="#000000" />
+	</font>
+	<font name="reference-bi">
+		<fgffile name="graphics/fonts/bolditalic-11.fgf" />
+		<color value="#000000" />
+	</font>
+	<font name="reference-b-large">
+		<fgffile name="graphics/fonts/bold-11.fgf" />
+		<color value="#000000" />
+	</font>
+	
+	<!--Following taken from CoreRPG 3.1.2-->
+	
+	<!-- Chat fonts - REQUIRED -->
+	<font name="chatfont">
+		<fgffile name="graphics/fonts/regular-11.fgf" />
+		<color value="#261A12" />
+	</font>
+	<font name="emotefont">
+		<fgffile name="graphics/fonts/regular-11.fgf" />
+		<color value="#880000" />
+	</font>
+	<font name="narratorfont">
+		<fgffile name="graphics/fonts/bold-11.fgf" />
+		<color value="#261A12" />
+	</font>
+	<font name="systemfont">
+		<fgffile name="graphics/fonts/regular-11.fgf" />
+		<color value="#660066" />
+	</font>
+	<font name="msgfont">
+		<fgffile name="graphics/fonts/regular-11.fgf" />
+		<color value="#660066" />
+	</font>
+	<font name="oocfont">
+		<fgffile name="graphics/fonts/regular-11.fgf" />
+		<color value="#005500" />
+	</font>
+	
+	<!-- Chat fonts -->
+	<font name="chatnpcfont">
+		<fgffile name="graphics/fonts/regular-11.fgf" />
+		<color value="#000066" />
+	</font>
+	<font name="chatgmfont">
+		<fgffile name="graphics/fonts/bolditalic-11.fgf" />
+		<color value="#000000" />
+	</font>
+	<font name="whisperfont">
+		<fgffile name="graphics/fonts/bold-11.fgf" />
+		<color value="#660066" />
+	</font>	
+	<font name="reference-h">
+		<fgffile name="graphics/fonts/bold-14.fgf" />
+		<color value="660000" />
+	</font>
+
+	<!-- Define Extension Logo -->
+	<icon name="icon" file="icon.png" />
+</root>
