@@ -5,12 +5,12 @@ It should be compatible with any Fantasy Grounds Ruleset.
 
 ## Content of the package
 * Size 11
-** Regular
-** Bold
-** Italic
-** BoldItalic
+  * Regular
+   * Bold
+  * Italic
+  * BoldItalic
 * Size 13
-** Bold
+  * Bold
 
 If you need any more sizes, feel free to create an issue or crete a pull request.
 
@@ -23,11 +23,11 @@ Herhangi bir Fantasy Grounds kuralları ile uyumlu olmalıdır.
 
 ## Paket içeriği
 * Yazı Boyutu 11
-** Düz
-** Kalın
-** Yatık
-** Kalın - Yatık
+  * Düz
+  * Kalın
+  * Yatık
+  * Kalın - Yatık
 * Yazı Boyutu 13
-** Kalın
+  * Kalın
 
 Daha fazla boyda karakterler istiyorsanız, madde açmaktan, değişiklik talebi göndermekten çekinmeyin.
