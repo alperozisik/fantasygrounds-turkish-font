@@ -11,6 +11,8 @@ It should be compatible with any Fantasy Grounds Ruleset.
   * BoldItalic
 * Size 13
   * Bold
+* Size 14
+  * Bold
 
 If you need any more sizes, feel free to create an issue or crete a pull request.
 
@@ -31,6 +33,8 @@ Herhangi bir Fantasy Grounds kuralları ile uyumlu olmalıdır.
   * Yatık
   * Kalın - Yatık
 * Yazı Boyutu 13
+  * Kalın
+* Yazı Boyutu 14
   * Kalın
 
 Daha fazla boyda karakterler istiyorsanız, madde açmaktan, değişiklik talebi göndermekten çekinmeyin.
