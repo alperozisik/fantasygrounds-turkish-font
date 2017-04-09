@@ -18,7 +18,7 @@ If you need any more sizes, feel free to create an issue or crete a pull request
 
 # Fantasy Grounds için Türkçe Font Desteği
 
-Bu yazı tipi (font) *Liberation Sans* yazı tipinden Türkçe karakter kümesi kullanılarak üretilmiştir; [Dafont] (http://www.dafont.com/liberation-sans.font) sitesinden yazı tipi dosyaları elde edilebilir.
+Bu yazı tipi (font) *Liberation Sans* yazı tipinden Türkçe karakter kümesi kullanılarak üretilmiştir; [Dafont](http://www.dafont.com/liberation-sans.font) sitesinden yazı tipi dosyaları elde edilebilir.
 Herhangi bir Fantasy Grounds kuralları ile uyumlu olmalıdır.
 
 ## Paket içeriği
