@@ -14,6 +14,9 @@ It should be compatible with any Fantasy Grounds Ruleset.
 
 If you need any more sizes, feel free to create an issue or crete a pull request.
 
+## Download
+Downloads are under [Releases](https://github.com/alperozisik/fantasygrounds-turkish-font/releases) section
+
 ***
 
 # Fantasy Grounds için Türkçe Font Desteği
@@ -31,3 +34,6 @@ Herhangi bir Fantasy Grounds kuralları ile uyumlu olmalıdır.
   * Kalın
 
 Daha fazla boyda karakterler istiyorsanız, madde açmaktan, değişiklik talebi göndermekten çekinmeyin.
+
+## İndirme
+İndirmeler [Releases](https://github.com/alperozisik/fantasygrounds-turkish-font/releases) altındadır
