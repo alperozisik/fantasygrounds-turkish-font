@@ -77,10 +77,6 @@
 		<fgffile name="graphics/fonts/bold-11.fgf" />
 		<color value="#660066" />
 	</font>	
-	<font name="reference-h">
-		<fgffile name="graphics/fonts/bold-14.fgf" />
-		<color value="660000" />
-	</font>
 
 	<!-- Define Extension Logo -->
 	<icon name="icon" file="icon.png" />
