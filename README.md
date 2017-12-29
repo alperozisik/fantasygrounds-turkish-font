@@ -14,7 +14,7 @@ It should be compatible with any Fantasy Grounds Ruleset.
 * Size 14
   * Bold
 
-If you need any more sizes, feel free to create an issue or crete a pull request.
+If you need any more sizes, feel free to create an issue or create a pull request.
 
 ## Download
 Downloads are under [Releases](https://github.com/alperozisik/fantasygrounds-turkish-font/releases) section
@@ -24,7 +24,7 @@ Downloads are under [Releases](https://github.com/alperozisik/fantasygrounds-tur
 # Fantasy Grounds için Türkçe Font Desteği
 
 Bu yazı tipi (font) *Liberation Sans* yazı tipinden Türkçe karakter kümesi kullanılarak üretilmiştir; [Dafont](http://www.dafont.com/liberation-sans.font) sitesinden yazı tipi dosyaları elde edilebilir.
-Herhangi bir Fantasy Grounds kuralları ile uyumlu olmalıdır.
+Herhangi bir Fantasy Grounds kuralları ile uyumlu uyumludur.
 
 ## Paket içeriği
 * Yazı Boyutu 11
