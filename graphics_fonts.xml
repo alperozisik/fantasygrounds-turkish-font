@@ -6,6 +6,46 @@
 -->
 
 <root>
+	<!-- Windows -->
+	<font name="windowtitle"> 
+		<fgffile name="graphics/fonts/regular-12.fgf" />
+		<color value="DED1B1" />
+		<shadow offset="2,2" color="000000" /> 
+	</font>
+	<font name="subwindowtitle">
+		<fgffile name="graphics/fonts/regular-10.fgf" />
+		<color value="DED1B1" />
+		<shadow offset="2,2" color="000000" />
+	</font>
+	<font name="subwindowsmalltitle">
+		<fgffile name="graphics/fonts/bold-10.fgf" />
+		<color value="FFF1CC" />
+		<shadow offset="1,1" color="000000" />
+	</font>
+	<font name="subwindowsmalltitle_disabled">
+		<fgffile name="graphics/fonts/bold-10.fgf" />
+		<color value="494340" />
+		<shadow offset="1,1" color="000000" />
+	</font>
+	
+	<!-- Misc -->
+	<font name="list-empty-ct">
+		<fgffile name="graphics/fonts/italic-10.fgf" />
+		<color value="#FFFFFF" />
+	</font>
+	<font name="list-empty-ps">
+		<fgffile name="graphics/fonts/italic-10.fgf" />
+		<color value="#FFFFFF" />
+	</font>
+	<font name="reference-title">
+		<fgffile name="graphics/fonts/bold-14.fgf" />
+		<color value="000000" />
+	</font>
+	<font name="reference-subtitle">
+		<fgffile name="graphics/fonts/bold-10.fgf" />
+		<color value="000000" />
+	</font>
+	
 	<!-- Formatted text fields -->
 	<font name="reference-title">
 		<fgffile name="graphics/fonts/bold-14.fgf" />
@@ -36,7 +76,27 @@
 		<color value="#000000" />
 	</font>
 	
-	<!--Following taken from CoreRPG 3.1.2-->
+	<!-- Reference -->
+	<font name="reference-header">
+		<fgffile name="graphics/fonts/bold-10.fgf" />
+		<color value="FFFFFF" />
+	</font>
+	<font name="reference-groupdesc">
+		<fgffile name="graphics/fonts/bold-10.fgf" />
+		<color value="#000000" />
+	</font>
+	<font name="reference-groupsubdesc">
+		<fgffile name="graphics/fonts/italic-10.fgf" />
+		<color value="#FFFFFF" />
+	</font>
+	<font name="reference-section">
+		<fgffile name="graphics/fonts/regular-12.fgf" />
+		<color value="3B2C21" />
+	</font>
+	<font name="reference-chapter">
+		<fgffile name="graphics/fonts/regular-10.fgf" />
+		<color value="3B2C21" />
+	</font>
 	
 	<!-- Chat fonts - REQUIRED -->
 	<font name="chatfont">
@@ -77,6 +137,16 @@
 		<fgffile name="graphics/fonts/bold-11.fgf" />
 		<color value="#660066" />
 	</font>	
+	
+	<!-- Standard text fields -->
+	<font name="sheetlabel">
+		<fgffile name="graphics/fonts/bold-10.fgf" />
+		<color value="#000000" />
+	</font>
+	<font name="sheettext">
+		<fgffile name="graphics/fonts/regular-11.fgf" />
+		<color value="#000000" />
+	</font>
 
 	<!-- Define Extension Logo -->
 	<icon name="icon" file="icon.png" />
